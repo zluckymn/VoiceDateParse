@@ -1,0 +1,10 @@
+diff a/VoiceTextDateTimeFilter.cs b/VoiceTextDateTimeFilter.cs	(rejected hunks)
+@@ -0,0 +1,8 @@
++ï»¿using System;
++
++public class Class1
++{
++	public Class1()
++	{
++	}
++}
