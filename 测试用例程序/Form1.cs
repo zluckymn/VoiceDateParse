@@ -485,14 +485,23 @@ namespace 测试用例程序
                     
                     this.richTextBox2.Text += string.Format("old:{0} new:{1} \n", m.ToString(),temp);
                 }
+<<<<<<< HEAD
                 //this.richTextBox2.Text = needDealStr.Replace(" ","").Replace("|Y|"," ");
                 
+=======
+                 //this.richTextBox2.Text = needDealStr.Replace(" ","").Replace("|Y|"," ");
+
+>>>>>>> 3ed2e7a360430a2768d9a179f216597ef909db43
             }
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             
+=======
+
+>>>>>>> 3ed2e7a360430a2768d9a179f216597ef909db43
         }
 
         private void button3_Click(object sender, EventArgs e)
